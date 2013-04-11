@@ -25,7 +25,7 @@ For example,
 $.notification("Hello World!");
 ```
 would result in:
-![alt text](http://s16.postimg.org/lqzfnhlw4/Capture.jpg "Hello World!")
+![alt text](https://github.com/kpsuperplane/plugin-collection/raw/notification/screenshots/default.png "Hello World!")
 License
 -----------
 This plugin is licensed under the MIT license.
