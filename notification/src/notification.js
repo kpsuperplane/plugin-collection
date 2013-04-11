@@ -1,4 +1,4 @@
-(function ($) {
+(function ($) { 
 	$.extend({
         notification: function (text,type) {
             var settings = $.extend({

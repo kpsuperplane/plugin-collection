@@ -1,4 +1,4 @@
-Notification DropDown
+Notification DropDown 
 =================
 
 Notification Dropdown is a jQuery Plugin that allows for stick notifications appear at the top of the page when needed. 
