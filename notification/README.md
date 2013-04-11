@@ -25,8 +25,14 @@ For example,
 $.notification("Hello World!");
 ```
 would result in:
+  
 ![alt text](https://raw.github.com/kpsuperplane/plugin-collection/master/notification/screenshots/default.PNG "Hello World!")
+  
 Note that if `type` isn't given it will default to `default` type.
+
+Multiple Notifications
+-----------------------------
+Notification Dropdown supports multiple notifications - just keep calling the plugin and it will automatically add new ones ontop of the old ones. As demonstrated in the screenshot, there's a little `1` at the front of the notification - which denotes that there is currently only 1 notification, which is the one that is being shown.  If there were more, that number would slowly count up consecutively. 
 License
 -----------
 This plugin is licensed under the MIT license.
