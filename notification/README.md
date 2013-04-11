@@ -25,7 +25,8 @@ For example,
 $.notification("Hello World!");
 ```
 would result in:
-![alt text](https://github.com/kpsuperplane/plugin-collection/raw/notification/screenshots/default.png "Hello World!")
+![alt text](https://github.com/kpsuperplane/plugin-collection/raw/notification/screenshots/default.PNG "Hello World!")
+Note that if `type` isn't given it will default to `default` type.
 License
 -----------
 This plugin is licensed under the MIT license.
